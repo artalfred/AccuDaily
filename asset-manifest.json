@@ -1,14 +1,15 @@
 {
   "files": {
     "main.css": "/AccuDaily/static/css/main.206a9639.css",
-    "main.js": "/AccuDaily/static/js/main.39f8b038.js",
+    "main.js": "/AccuDaily/static/js/main.f76a8ee8.js",
+    "static/media/politics.png": "/AccuDaily/static/media/politics.396de7c1c3cee24169f3.png",
     "static/media/Georgia.ttf": "/AccuDaily/static/media/Georgia.5b8bb278fcab4da4972e.ttf",
     "index.html": "/AccuDaily/index.html",
     "main.206a9639.css.map": "/AccuDaily/static/css/main.206a9639.css.map",
-    "main.39f8b038.js.map": "/AccuDaily/static/js/main.39f8b038.js.map"
+    "main.f76a8ee8.js.map": "/AccuDaily/static/js/main.f76a8ee8.js.map"
   },
   "entrypoints": [
     "static/css/main.206a9639.css",
-    "static/js/main.39f8b038.js"
+    "static/js/main.f76a8ee8.js"
   ]
 }

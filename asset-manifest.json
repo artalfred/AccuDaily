@@ -1,15 +1,20 @@
 {
   "files": {
-    "main.css": "/AccuDaily/static/css/main.206a9639.css",
-    "main.js": "/AccuDaily/static/js/main.dac990b3.js",
-    "static/media/politics.png": "/AccuDaily/static/media/politics.396de7c1c3cee24169f3.png",
+    "main.css": "/AccuDaily/static/css/main.11397a79.css",
+    "main.js": "/AccuDaily/static/js/main.76741623.js",
+    "static/media/business.png": "/AccuDaily/static/media/business.e75940b011974db49645.png",
+    "static/media/world.png": "/AccuDaily/static/media/world.dd82873f7e41e522740c.png",
+    "static/media/sports.png": "/AccuDaily/static/media/sports.540782c66c7640c699d5.png",
+    "static/media/science.png": "/AccuDaily/static/media/science.292ec443f450876fb163.png",
+    "static/media/fashion.png": "/AccuDaily/static/media/fashion.8897dabb445267af3bfc.png",
+    "static/media/politics.png": "/AccuDaily/static/media/politics.bda112b5e557457b4bda.png",
     "static/media/Georgia.ttf": "/AccuDaily/static/media/Georgia.5b8bb278fcab4da4972e.ttf",
     "index.html": "/AccuDaily/index.html",
-    "main.206a9639.css.map": "/AccuDaily/static/css/main.206a9639.css.map",
-    "main.dac990b3.js.map": "/AccuDaily/static/js/main.dac990b3.js.map"
+    "main.11397a79.css.map": "/AccuDaily/static/css/main.11397a79.css.map",
+    "main.76741623.js.map": "/AccuDaily/static/js/main.76741623.js.map"
   },
   "entrypoints": [
-    "static/css/main.206a9639.css",
-    "static/js/main.dac990b3.js"
+    "static/css/main.11397a79.css",
+    "static/js/main.76741623.js"
   ]
 }
